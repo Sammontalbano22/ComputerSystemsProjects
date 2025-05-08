@@ -1,8 +1,8 @@
 # ComputerSystemsProjects
 
 
-# Project 1
-
-[Memory Allocator](duMalloc.c)
-[Memory Allocator](duMalloc.h)
+## Project 1
+ Build my own Malloc and Free in a Memory Allocator Project.
+- [Memory Allocator](duMalloc.c)
+- [Memory Allocator](duMalloc.h)
 
